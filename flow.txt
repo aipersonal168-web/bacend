@@ -1,0 +1,11 @@
+Browser / Frontend
+        ↓
+Route  ( /api/years )
+        ↓
+Controller ( getYears() )
+        ↓
+Model ( findAll() )
+        ↓
+MySQL Database
+        ↑
+JSON Response
